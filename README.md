@@ -40,8 +40,8 @@ src="https://img.shields.io/github/followers/mayankjain25?logo=github&style=for-
 <a style="margin: 10px;" href="https://www.github.com/mayankjain25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a style="margin: 10px;" href="https://www.linkedin.com/in/mayank-jain-688409208/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a style="margin: 10px;" href="http://www.medium.com/@jainmayank2509" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a style="margin: 10px;" href="https://codeforces.com/profile/mayjai25" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/4N0QsNx5/codeforces-logo-removebg-preview.png" width="32" height="32" /></a>
-<a style="margin: 10px;" href="https://leetcode.com/jainmayank2509/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/9QFYj8TG/Leet-Code-logo-rvs.png" width="32" height="32" /></a>
+<a style="margin: 10px;" href="https://codeforces.com/profile/mayjai25" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" width="32" height="32" /></a>
+<a style="margin: 10px;" href="https://leetcode.com/jainmayank2509/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" width="32" height="32" /></a>
 
 </p>
 
