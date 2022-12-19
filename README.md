@@ -34,6 +34,9 @@ src="https://img.shields.io/github/followers/mayankjain25?logo=github&style=for-
 </p>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayankjain25)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Socials
 
 <p align="left"> 
