@@ -8,9 +8,12 @@ Hi 👋 My name is Mayank Jain
 
 
 
-      <style>
-        .libutton {
-          display: flex;
+<div style="display:flex;">
+
+<a href="https://www.github.com/mayankjain25" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mayankjain25?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a class="libutton" style="  display: flex;
           flex-direction: column;
           justify-content: center;
           padding: 7px;
@@ -22,16 +25,7 @@ Hi 👋 My name is Mayank Jain
           height: 32px;
           border-radius: 16px;
           background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-
-<div style="display:flex;">
-
-<a href="https://www.github.com/mayankjain25" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mayankjain25?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mayank-jain-688409208" target="_blank">Follow on LinkedIn</a>
+          font-family: "SF Pro Text", Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mayank-jain-688409208" target="_blank">Follow on LinkedIn</a>
 
 </div>
 
