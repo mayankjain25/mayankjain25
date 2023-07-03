@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">May the force be with you!</h2></summary>
   </ul>
 </div>
 
@@ -30,9 +30,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I write articles on [Hashnode](https://jainmayank2509.medium.com/)
+- 📝 I write articles on [Medium](https://jainmayank2509.medium.com/)
 
-- 💬 Ask me about **AWS, react, nodejs, mongoDB**
+- 💬 Ask me about **AWS, React, NodeJS, MongoDB**
 
 - 📫 Feel free to reach me out **jainmayank2509@gmail.com**
 
